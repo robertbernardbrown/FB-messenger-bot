@@ -1,0 +1,24 @@
+{
+  "name": "fb-messenger-bot",
+  "version": "1.0.0",
+  "description": "an FB messenger bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertbernardbrown/FB-messenger-bot.git"
+  },
+  "author": "Bob Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertbernardbrown/FB-messenger-bot/issues"
+  },
+  "homepage": "https://github.com/robertbernardbrown/FB-messenger-bot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
